@@ -6,8 +6,9 @@
 
 - Potti Sai Pavan Guru Jayanth (19BAI1045)
 - Uttej Kumar Kandagatla (19BAI1015)
-- Pranay Thipirishetty (19BAI1056)
 - Mahalaxmi Bashetty (19BAI1003)
+- Pranay Thipirishetty (19BAI1056)
+
 
 ### Link to Dataset
 [News Dataset](https://drive.google.com/file/d/1mqEpnZho-oUhSsgBnE0fwPsaogkNzKqd/view?usp=sharing)
