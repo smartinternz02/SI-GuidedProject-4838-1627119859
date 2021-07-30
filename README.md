@@ -22,4 +22,4 @@ In this project, we have built a classifier model using NLP that can identify ne
 [Video Demonstration](https://drive.google.com/file/d/15DJ2-z4iV9kD1CAWScqFFdn3UvY8vw2i/view?usp=sharing)
 
 ## Link to Feedback Video
-[Feedback]()
+[Feedback](https://drive.google.com/file/d/19J5SKx3tdBMnT08hJgkpDTnj-mewdbhp/view?usp=sharing)
